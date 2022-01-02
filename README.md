@@ -17,4 +17,4 @@ for further reruns.
 The ``sentiment.py`` file contains feature extraction functions, while ``neuralNet.py`` 
 holds the actual neural network code.
 
-To run the code, make sure thesimply run ``python neuralNet.py``
+To run the code, simply run ``python neuralNet.py``
