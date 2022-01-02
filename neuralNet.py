@@ -241,6 +241,6 @@ def main(dvana=8):
 
 
 if __name__ == "__main__":
-    for i in range(15, 16):
+    for i in range(5, 15):
         print("running at i =", i)
         main(i)
